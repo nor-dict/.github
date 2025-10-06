@@ -9,5 +9,5 @@
 Сборник архаизмов по архангельской области с подробным описанием. Включает в себя несколько словарей разбитых по городам с возможностью поиска и редактирования.
 
 ### Примерный концепт
-<img width="512" height="288" alt="body" src="https://github.com/user-attachments/assets/b692c0b8-3d9f-464e-9a78-afdbb9ea2435" />
-<img width="512" height="288" alt="body-2" src="https://github.com/user-attachments/assets/29b0b12e-c912-4982-b471-75aa6ac9b0ff" />
+<img width="1920" height="1080" alt="body" src="https://github.com/user-attachments/assets/8307bd72-3d35-4dec-9501-52558453f347" />
+<img width="1920" height="1080" alt="body-2" src="https://github.com/user-attachments/assets/089a93b0-31f3-4608-9d6d-d4af2a22b633" />
