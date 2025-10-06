@@ -10,4 +10,4 @@
 
 ### Предварительный концепт
 <img width="1920" height="1080" alt="body" src="https://github.com/user-attachments/assets/0e24ea0d-36cb-4ae2-92fd-79aeae837c9f" />
-<img width="1920" height="1080" alt="body-2" src="https://github.com/user-attachments/assets/139eb44c-d6cf-4b59-a564-74c21b246c53" />
+<img width="1920" height="1080" alt="body-2" src="https://github.com/user-attachments/assets/f739963a-2a75-4018-81b0-cc37935067f8" />
