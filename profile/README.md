@@ -9,5 +9,6 @@
 Сборник неофициальных топонимов по архангельской области с подробным описанием. Включает в себя несколько словарей разбитых по городам с возможностью поиска и редактирования.
 
 ### Предварительный концепт
-<img width="1920" height="1080" alt="body" src="https://github.com/user-attachments/assets/101faa2a-ce70-4edf-87de-eca7a62187b9" />
-<img width="1920" height="1080" alt="body-2" src="https://github.com/user-attachments/assets/b786279a-e825-424f-bb60-2a26d470620e" />
+<img width="1920" height="1212" alt="body-empty" src="https://github.com/user-attachments/assets/1373ed7c-0c21-4f4d-9991-72f65963b192" />
+<img width="1920" height="1212" alt="body" src="https://github.com/user-attachments/assets/2a67dad6-b60f-42d2-9e69-580dd023648e" />
+<img width="1920" height="1212" alt="body-editor" src="https://github.com/user-attachments/assets/a0c58c9f-07df-433b-9178-89bffb6d8ce1" />
